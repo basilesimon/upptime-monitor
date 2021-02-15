@@ -3,12 +3,6 @@ repo: upptime-monitor
 user-agent: basilesimon-upptime-crawler
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Personal website
     url: https://basilesimon.fr
   - name: Personal blog
@@ -24,7 +18,7 @@ assignees:
   - basilesimon
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /upptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
