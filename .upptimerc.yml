@@ -13,6 +13,12 @@ sites:
     url: https://basilesimon.fr
   - name: Personal blog
     url: https://blog.basilesimon.fr
+  - name: Cambodia Corporates
+    url: https://cambodiacorporates.globalwitness.org
+  - name: Great Rip Off Map
+    url: https://greatripoffmap.globalwitness.org
+  - name: Linkurious
+    url: https://linkurious.globalwitness.org/login
 
 assignees:
   - basilesimon
