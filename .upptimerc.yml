@@ -1,7 +1,7 @@
 owner: basilesimon
 repo: upptime-monitor
+user-agent: basilesimon-upptime-crawler
 
-# Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
@@ -9,8 +9,13 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Personal website
+    url: https://basilesimon.fr
+  - name: Personal blog
+    url: https://blog.basilesimon.fr
+
+assignees:
+  - basilesimon
 
 status-website:
   baseUrl: /upptime
