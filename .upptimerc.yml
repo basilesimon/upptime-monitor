@@ -3,6 +3,9 @@ repo: upptime-monitor
 user-agent: basilesimon-upptime-crawler
 
 sites:
+  - name: Digital Evidence Toolkit
+    url: https://digitalevidencetoolkit.org
+    icon: https://digitalevidencetoolkit.org/favicon.png
   - name: Personal website
     url: https://basilesimon.fr
     icon: https://basilesimon.fr/public/favicon.ico
